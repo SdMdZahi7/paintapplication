@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -144,7 +144,7 @@ function myClickEvent(e){
         </script>
 </body>
 </html>
-
+~~~
 ## OUTPUT:
 ![GitHub Logo](CDA.png)
 
