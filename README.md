@@ -146,7 +146,7 @@ function myClickEvent(e){
 </html>
 
 ## OUTPUT:
-![GitHub Logo](CANVAS DRAWING APPLICATION.png)
+![GitHub Logo](CDA.png)
 
 ## Result:
 
